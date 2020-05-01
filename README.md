@@ -1,3 +1,4 @@
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ### The Coronavirus Dashboard
@@ -15,4 +16,3 @@ on a daily bases
 <img src="figures/dash1.png" width="100%" />
 
 <img src="figures/dash2.png" width="100%" />
-
